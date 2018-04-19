@@ -33,6 +33,8 @@
         android:layout_height="wrap_content"
         tools:text="Saturday, September 24"/>
 
+    
+
     <!-- COMPLETED (4) Add a TextView for the selected day's weather description -->
     <!-- Text that describes weather condition -->
     <TextView
